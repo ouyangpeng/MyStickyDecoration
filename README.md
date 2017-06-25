@@ -7,12 +7,10 @@ RecyclerView：打造悬浮效果
 
 >原理实现可以阅读文章： http://www.jianshu.com/p/b335b620af39
 
+![效果](https://github.com/ouyangpeng/MyStickyDecoration/blob/master/ScreenCapture/v3.gif)
+
+![效果](https://github.com/ouyangpeng/MyStickyDecoration/blob/master/ScreenCapture/v1.gif)
+
+![效果](https://github.com/ouyangpeng/MyStickyDecoration/blob/master/ScreenCapture/v2.gif)
 
 
-![效果](http://upload-images.jianshu.io/upload_images/1638147-89986d7141741cdf.gif?imageMogr2/auto-orient/strip)
-
-
-![效果](http://upload-images.jianshu.io/upload_images/1638147-f3c2cbe712aa65fb.gif?imageMogr2/auto-orient/strip)
-
-
-![效果](http://upload-images.jianshu.io/upload_images/1638147-3fed255296a6c3db.gif?imageMogr2/auto-orient/strip)
