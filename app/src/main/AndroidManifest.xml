@@ -9,14 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".view.StickyRecyclerViewActivity"
-            android:label="@string/title_activity_sticy_recycler_view"
-            android:theme="@style/AppTheme.NoActionBar">
+        <activity android:name=".view.StickyRecyclerViewActivity" />
 
-        </activity>
+        <activity android:name=".view.PowerfulStickyRecyclerViewActivity" />
 
-        <activity android:name=".view.PowerfulStickyRecyclerViewActivity">
+        <activity android:name=".view.BeautifulStickyRecyclerViewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
