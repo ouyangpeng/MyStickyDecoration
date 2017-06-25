@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StickyDecoration</string>
+    <string name="title_activity_sticy_recycler_view">SticyRecyclerViewActivity</string>
+</resources>
