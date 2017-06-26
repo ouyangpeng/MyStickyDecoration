@@ -1,5 +1,4 @@
-# MyStickyDecoration
-RecyclerView：打造悬浮效果
+# MyStickyDecoration    RecyclerView：打造悬浮效果（吸顶效果） 
 
 >本demo仅仅用于个人学习 RecyclerView.ItemDecoration
 
